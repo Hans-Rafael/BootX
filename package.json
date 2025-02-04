@@ -1,0 +1,18 @@
+{
+  "name": "bootx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "Author": "Hans Garcia",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"node boot.js\" \"node boot2.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  },
+  "type": "module",
+  "description": "boot para entrar a un enlaze repetida mente hasta obtener rediccionamiento correcto!"
+}
