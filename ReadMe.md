@@ -1,6 +1,6 @@
 # README: Script Puppeteer para detección de turnos
 
-Este script utiliza Puppeteer para automatizar la búsqueda de turnos disponibles en un sitio web y notificar al usuario mediante un sonido cuando se encuentran turnos.
+Este script utiliza Puppeteer para automatizar el acceso en este caso pagina para pedir turnos disponibles en un sitio web y notificar al usuario mediante un sonido cuando logra acceder al link.
 
 ## Descripción
 
